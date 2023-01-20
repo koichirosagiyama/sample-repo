@@ -1,2 +1,2 @@
 # sample-repo
-Git for training
+更新
